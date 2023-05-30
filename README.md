@@ -1,7 +1,7 @@
 Hi There!👋
 
 # 💫 About Me:
-I'm currently working on Fraud Detection<br>I'm looking to collaborate on Machine Learning projects<br>I'm currently learning about AWS and AutoML
+I'm currently working on Fraud Detection and learning about AWS and AutoML<br>
 
 
 ## 🌐 Socials:
