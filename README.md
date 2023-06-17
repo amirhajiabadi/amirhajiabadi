@@ -1,7 +1,7 @@
 Hi There!👋
 
 # 💫 About Me:
-I'm currently working on a project using AWS, Hadoop, Spark, and PostgreSQL<br>
+I'm currently working on a project using AWS, Hadoop, Spark, and PostgreSQL.<br>
 
 
 ## 🌐 Socials:
