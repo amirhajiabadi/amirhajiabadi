@@ -1,7 +1,7 @@
 Hi There!👋
 
 # 💫 About Me:
-I'm currently reviewing NLP Concepts<br>
+I'm an experienced Machine Learning Engineer specializing in Natural Language Processing (NLP), with a demonstrated track record of developing and deploying NLP solutions at scale. Proficient in collaborating with cross-functional teams to fine-tune NLP models and adhere to best practices in software development methodologies.<br>
 
 
 ## 🌐 Socials:
